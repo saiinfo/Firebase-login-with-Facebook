@@ -1,0 +1,68 @@
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #fafafa;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+  align-items: center;
+  height: 100vh;
+}
+
+.box {
+  border: 1px solid #dfdfdf;
+  background-color: #fff;
+}
+
+.g-btn {
+  width: 100% !important;
+  height: 40px !important;
+  line-height: 40px !important;
+  font-size: 15px !important;
+}
+.g-btn > div,
+.g-btn > div > svg {
+  width: 40px !important;
+  height: 38px !important;
+}
+.button-right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#recaptcha-container {
+  margin: 20px;
+}
+/* styles.css */
+
+/* Reset default button styles */
+button {
+  border: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+}
+
+/* Primary button styles */
+.btn {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.2s ease;
+}
+
+/* Primary button styles when not hovered */
+.btn-primary {
+  background-color: #007bff;
+}
+
+/* Primary button styles on hover */
+.btn-primary:hover {
+  background-color: #0056b3;
+}
