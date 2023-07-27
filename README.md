@@ -54,4 +54,6 @@ Successful Authentication: Once authenticated, you will be redirected back to th
 ## Conclusion:
 With Firebase Authentication set up and integrated into your application, you can easily add user login functionality, protect specific routes or content, and personalize user experiences based on their authentication status. Always ensure you handle authentication securely, and refer to the official Firebase documentation for detailed information on additional features and best practices.
 
-## Project Priview
+## Project Priview:
+![20230727_102020](https://github.com/saiinfo/Firebase-login-with-Facebook/assets/26924010/97b064f2-724b-42c9-8db7-b50970d1f54d)
+
